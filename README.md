@@ -1,4 +1,4 @@
-# speech2txt
+# speech2txt 🦻📑
 speech2txt : Speech-to-Text API # Google Speech Recognition
 
 
