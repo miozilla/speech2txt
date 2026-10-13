@@ -7,8 +7,12 @@ To create an API key &peech-to-Text API request.
 Test (call) Speech-to-Text API.
 
 
-## Speech-to-Text API
+## Similar Skills Set
+- AWS : Amazon Transcribe
+- Azure : AI Speech (Speech-to-Text)
 
+
+## Speech-to-Text API
 
 ![speech2txt001.png](./media/speech2txt001.png)
 
